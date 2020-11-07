@@ -1,0 +1,2 @@
+export const START_RUNNING = 'START_RUNNING';
+export const ABORT_RUNNING = 'ABORT_RUNNING';

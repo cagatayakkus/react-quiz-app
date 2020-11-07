@@ -1,0 +1,9 @@
+.QuizContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.QuizContainer .QuizControlsContainer {
+    width: 100%;
+    align-self: flex-end;
+}

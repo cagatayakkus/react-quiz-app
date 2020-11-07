@@ -1,0 +1,16 @@
+.CardWrapper {
+    display: flex;
+    font-size: 2rem;
+    word-wrap: break-word;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    min-height: 50vh;
+    background: #eee;
+    color: #f4abc4;
+    font-weight: bold;
+    border: 1px solid #eee;
+    border-radius: 25%;
+    cursor: pointer;
+    flex-wrap: wrap;
+}

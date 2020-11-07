@@ -1,0 +1,16 @@
+.Reset {
+  cursor: pointer;
+  margin: 2em;
+  width: 5em;
+  height: 2em;
+  border: 1px solid rgba(0, 122.5, 0, 0.5);
+  border-radius: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Reset:hover {
+  color: rgba(0, 122.5, 0, 0.5);
+  background: #eee;
+}
